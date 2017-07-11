@@ -24,3 +24,56 @@ As well as the following **Security non-objectives**:
 | **WoT Protocol Side Channels** |  TBD |
 |   |   |
 
+
+**Scenario 2 - Business/Corporate environment**
+
+In this scenario we assume an office building environment that is shared between a number of independent companies with a WoT network running that controls temperature, lights, video surveillance, air etc.
+
+This scenario implies the following **WoT Security objectives**:
+
+| **Threat name** | **Example(s)** | **Mitigation** |
+| --- | --- | --- |
+| **WoT Protocol Bindings** |   | TBD |
+| **WoT API** | | TBD  |
+| **WoT API - Unauthorized API access** |  | TBD  |
+| **WoT Protocol - TD Authenticity** | | TBD |
+| **WoT Protocol - TD Confidentiality** |  | TBD  |
+| **WoT Protocol - Solution Data Authenticity** |   |  TBD  |
+| **WoT Protocol - Solution Data Confidentiality**  |  |  TBD  |
+| **WoT DoS** |  | TBD |
+
+As well as the following **Security non-objectives**:
+
+| **Threat name** | **Reasoning &amp; recommendation** |
+| --- | --- |
+| **Non-WoT End Point** | TBD |
+| **WoT Platform**| TBD |
+| **WoT Protocol Side Channels** |  TBD |
+|   |   |
+
+**Scenario 3 - Industrial/Critical infrastructure environment**
+
+In this scenario we assume an industrial factory or infrastructure (power plant, water distribution system) environment that is using WoT network to monitor or perform certain automation tasks. 
+
+This scenario implies the following **WoT Security objectives**:
+
+| **Threat name** | **Example(s)** | **Mitigation** |
+| --- | --- | --- |
+| **WoT Protocol Bindings** |   | TBD |
+| **WoT API** | | TBD  |
+| **WoT API - Unauthorized API access** |  | TBD  |
+| **WoT Protocol - TD Authenticity** | | TBD |
+| **WoT Protocol - TD Confidentiality** |  | TBD  |
+| **WoT Protocol - Solution Data Authenticity** |   |  TBD  |
+| **WoT Protocol - Solution Data Confidentiality**  |  |  TBD  |
+| **WoT DoS** |  | TBD |
+
+As well as the following **Security non-objectives**:
+
+| **Threat name** | **Reasoning &amp; recommendation** |
+| --- | --- |
+| **Non-WoT End Point** | TBD |
+| **WoT Platform**| TBD |
+| **WoT Protocol Side Channels** |  TBD |
+|   |   |
+
